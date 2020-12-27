@@ -1,1 +1,0 @@
-/home/aks_hat/.emacs.d/
