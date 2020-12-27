@@ -1,0 +1,1 @@
+/home/aks_hat/.bashrc
